@@ -7,7 +7,14 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 Estrutura da base de dados
 Arquivo em excel que contém inicialmente as seguintes colunas:
 
-- Soma de Faturamento por Mês 
-- Soma de Quantidade Vendida por Loja
-- Valor da Movimentação
-
+- Sku
+- Produto
+- Quantidade Vendida
+- Data da Venda
+- Nome Completo
+- Data de Nascimento
+- Loja
+- Preço Unitário
+- Custo Unitário
+- Imagem
+- Faturamento
