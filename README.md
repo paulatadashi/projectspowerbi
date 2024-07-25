@@ -25,3 +25,12 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 
 ![Design sem nome](https://github.com/user-attachments/assets/6284e08b-35ac-4be3-a1fa-c3e447546868)
 
+Estrutura da base de dados
+Arquivo em excel que contém inicialmente as seguintes colunas:
+
+- Receita
+- Lucro
+- Km Rodados
+- Quantidade de viagens por mês
+- Análise por Veículo e Marca
+- Porcentagem de entregas no Prazo
