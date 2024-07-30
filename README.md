@@ -23,6 +23,8 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 
 <h2>Dashboard Financeiro</h2>
 
+- https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro
+
 ![Design sem nome](https://github.com/user-attachments/assets/6284e08b-35ac-4be3-a1fa-c3e447546868)
 
 Estrutura da base de dados
