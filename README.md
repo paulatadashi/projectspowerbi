@@ -23,7 +23,7 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 - Imagem
 - Faturamento
 
-<h2>Dashboard Financeiro</h2>
+<h2>Dashboard Financeiro 2</h2>
 
 ![Design sem nome](https://github.com/user-attachments/assets/6284e08b-35ac-4be3-a1fa-c3e447546868)
 
