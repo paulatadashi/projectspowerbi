@@ -2,7 +2,7 @@
 
 Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia:
 
-<a href="https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro"/>Dashboard Financeiro</a>
+<a href="https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro"/>Dashboard Financeiro 2</a>
 
 <h2>Dashboard Financeiro</h2>
 
