@@ -8,6 +8,8 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
 ![Design sem nome](https://github.com/user-attachments/assets/2ef5293b-9134-4925-b187-b73293a649b2)
 
+Acesse o Dashboard completo <a href=
+
 Estrutura da base de dados
 Arquivo em excel que contém inicialmente as seguintes colunas:
 
@@ -26,6 +28,8 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 <h2>Dashboard Financeiro 2</h2>
 
 ![Design sem nome](https://github.com/user-attachments/assets/6284e08b-35ac-4be3-a1fa-c3e447546868)
+
+ Acesse o Dashboard completo  <a href="https://app.powerbi.com/view?r=eyJrIjoiZWZiOTJkNWEtYWQ1ZS00NTZhLWE3YjMtYzUxMDgwZWQ3YTY3IiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9" frameborder="0" allowFullScreen="true"/> neste link</a>
 
 Estrutura da base de dados
 Arquivo em excel que contém inicialmente as seguintes colunas:
