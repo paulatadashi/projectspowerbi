@@ -6,7 +6,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
 - <a href="https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro"/>Dashboard Financeiro 2</a>
 
-<h2>Dashboard Financeiro</h2>
+<h2>Dashboard Financeiro 1</h2>
 
 ![Design sem nome](https://github.com/user-attachments/assets/2ef5293b-9134-4925-b187-b73293a649b2)
 
