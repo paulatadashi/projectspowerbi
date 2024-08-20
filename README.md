@@ -15,6 +15,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 Acesse o Dashboard completo <a href="https://app.powerbi.com/view?r=eyJrIjoiMWM2ZjgyZDMtNDNkZS00ZmM5LThiYjQtOTE3ODkxYzRiNDU2IiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9"/> neste link</a>
 
 Estrutura da base de dados
+
 Arquivo em excel que contém inicialmente as seguintes colunas:
 
 - Sku
@@ -36,6 +37,7 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
  Acesse o Dashboard completo  <a href="https://app.powerbi.com/view?r=eyJrIjoiZWZiOTJkNWEtYWQ1ZS00NTZhLWE3YjMtYzUxMDgwZWQ3YTY3IiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9" frameborder="0" allowFullScreen="true"/> neste link</a>
 
 Estrutura da base de dados
+
 Arquivo em excel que contém inicialmente as seguintes colunas:
 
 - Receita
@@ -44,3 +46,16 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 - Quantidade de viagens por mês
 - Análise por Veículo e Marca
 - Porcentagem de entregas no Prazo
+
+  <h2>Dashboard Financeiro 3</h2>
+
+  ![dashboard rh](https://github.com/user-attachments/assets/db3549b2-0e4e-4adf-b0d7-a5bfda1b40bc)
+
+  Acesse o Dashboard completo <a href="https://app.powerbi.com/view?r=eyJrIjoiMzhkYjc2NjgtODcyYS00YTlkLThlODktNjM3YTU4NDJlOWRiIiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9"/> neste link</a>
+
+  Estrutura da base de dados
+  
+  Arquivo em excel que contém inicialmente as seguintes colunas:
+
+  
+
