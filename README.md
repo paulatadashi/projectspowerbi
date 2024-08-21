@@ -30,6 +30,8 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 - Imagem
 - Faturamento
 
+ Nenhuma nova coluna foi criada a partir dos dados.
+
 <h2>Dashboard Financeiro 2</h2>
 
 ![Design sem nome](https://github.com/user-attachments/assets/6284e08b-35ac-4be3-a1fa-c3e447546868)
@@ -40,12 +42,28 @@ Estrutura da base de dados
 
 Arquivo em excel que contém inicialmente as seguintes colunas:
 
-- Receita
-- Lucro
-- Km Rodados
-- Quantidade de viagens por mês
-- Análise por Veículo e Marca
-- Porcentagem de entregas no Prazo
+- Viagem
+- Data Pedido 
+- Data Entrega
+- Valor do Frete Líquido 
+- Custo Frete
+- Tempo Entrega
+- Status Entrega
+- Km
+- Prazo Entrega
+- Marca
+- Veículo 
+- Endereço 
+- Motorista
+- Cidade
+- Estado
+
+Colunas criadas a partir dos dados:
+
+- Custo Combustível
+- Custo Manutenção
+- Custos Fixos
+- Custo
 
   <h2>Dashboard Financeiro 3</h2>
 
@@ -56,6 +74,32 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
   Estrutura da base de dados
   
   Arquivo em excel que contém inicialmente as seguintes colunas:
+
+- ID RH
+- Nome Funcionario
+- Genêro 
+- Data de Nascimento
+- Data de Contratação
+- Data de Demissão
+- Salário com Imposto
+- VR
+- VT
+- Cargo
+- Área 
+- Horas Extras 
+- Avaliação do Funcionário
+- Status Funcionário
+- Cidade
+- Gasto Salarial 
+- Idade
+
+Colunas criadas a partir dos dados:
+
+- Multiplicação
+- Gasto Salarial 
+- Idade
+- Total em Anos
+- Arredondar para Baixo
 
   
 
