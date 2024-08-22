@@ -8,6 +8,8 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
 - <a href="https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%203"/>Dashboard Financeiro 3</a>
 
+- <a href="https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%204"/>Dashboard Financeiro 4</a>
+
 <h2>Dashboard Financeiro 1</h2>
 
 ![Design sem nome](https://github.com/user-attachments/assets/2ef5293b-9134-4925-b187-b73293a649b2)
@@ -101,5 +103,26 @@ Colunas criadas a partir dos dados:
 - Total em Anos
 - Arredondar para Baixo
 
-  
+  <h2>Dashboard Financeiro 4</h2>
 
+![dashboard rh](https://github.com/user-attachments/assets/1a6b06c4-5d78-47d4-9e51-c5ecd2ab62bf)
+
+Acesse o Dashboard completo <a href="https://app.powerbi.com/view?r=eyJrIjoiOWY0NTFmNzgtMWY1ZS00NTY1LWFmM2MtZGYwM2ZhYzYyMTVmIiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9"/> neste link</a>
+
+ Estrutura da base de dados
+  
+ Arquivo em excel que contém inicialmente as seguintes colunas:
+
+- ID_Pedido
+- Data_Pedido
+- ID_Representante
+- Nome_Representante
+- Regional
+- ID_Produto
+- Nome_Produto
+- Valor_Produto
+- Quantidade_Venda
+- Valor_Total_Venda
+- Nome_Cliente
+- Cidade_Cliente
+- Estado_Cliente
