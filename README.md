@@ -10,6 +10,8 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
 - <a href="https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%204"/>Dashboard Financeiro 4</a>
 
+- <a href="https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%205"/>Dashboard Financeiro 5</a>
+
 <h2>Dashboard Financeiro 1</h2>
 
 ![Design sem nome](https://github.com/user-attachments/assets/2ef5293b-9134-4925-b187-b73293a649b2)
@@ -126,3 +128,28 @@ Acesse o Dashboard completo <a href="https://app.powerbi.com/view?r=eyJrIjoiOWY0
 - Nome_Cliente
 - Cidade_Cliente
 - Estado_Cliente
+
+<h2>Dashboard Financeiro 5</h2>
+
+![Nossos colaboradores](https://github.com/user-attachments/assets/ef5c957c-71d3-49c7-8373-17171c5a8748)
+
+Acesse o Dashboard completo <a href="https://app.powerbi.com/view?r=eyJrIjoiODE0YjBkMTAtYzU0NC00NzkzLWE2MDItM2IyMTA4OTZiYThkIiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9"/> neste link</a>
+
+ Estrutura da base de dados
+  
+ Arquivo em excel que contém inicialmente as seguintes colunas:
+
+- Cargo
+- Cidade
+- CodCargo
+- Data de Nascimento
+- Data de Contratação
+- Escolaridade
+- Estado
+- Estado Civil 
+- Faixa Etária
+- Genêro
+- Idade
+- Nome Completo
+- Setor
+- Status
