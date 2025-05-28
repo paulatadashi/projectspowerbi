@@ -81,31 +81,31 @@ Colunas criadas a partir dos dados:
   
   Arquivo em excel que contém inicialmente as seguintes colunas:
 
-ID RH
-Nome Funcionario
-Genêro
-Data de Nascimento
-Data de Contratação
-Data de Demissão
-Salário com Imposto
-VR
-VT
-Cargo
-Área
-Horas Extras
-Avaliação do Funcionário
-Status Funcionário
-Cidade
-Gasto Salarial
-Idade
+- ID RH
+- Nome Funcionario
+- Genêro
+- Data de Nascimento
+- Data de Contratação
+- Data de Demissão
+- Salário com Imposto
+- VR
+- VT
+- Cargo
+- Área
+- Horas Extras
+- Avaliação do Funcionário
+- Status Funcionário
+- Cidade
+- Gasto Salarial
+- Idade
 
 Colunas criadas a partir dos dados:
 
-Multiplicação
-Gasto Salarial
-Idade
-Total em anos
-Arredondar para Baixo
+- Multiplicação
+- Gasto Salarial
+- Idade
+- Total em anos
+- Arredondar para Baixo
 
   <h2>Dashboard Financeiro 4</h2>
 
