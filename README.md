@@ -81,7 +81,7 @@ Colunas criadas a partir dos dados:
   
   Arquivo em excel que contém inicialmente as seguintes colunas:
 
-- ID RH
+- Id Rh
 - Nome Funcionario
 - Genêro 
 - Data de Nascimento
