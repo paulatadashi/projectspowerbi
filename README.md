@@ -102,9 +102,9 @@ Colunas criadas a partir dos dados:
 Colunas criadas a partir dos dados:
 
 - Multiplicação
-- Gasto Salarial 
+- Gasto Salarial
 - Idade
-- Total em Anos
+- Total em anos
 - Arredondar para Baixo
 
   <h2>Dashboard Financeiro 4</h2>
