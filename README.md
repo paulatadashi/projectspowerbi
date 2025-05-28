@@ -66,7 +66,7 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 
 Colunas criadas a partir dos dados:
 
-- Custo Combustível
+- Custo Combustível 
 - Custo Manutenção
 - Custo Fixos
 - Custo
