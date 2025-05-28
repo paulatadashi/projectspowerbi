@@ -68,7 +68,7 @@ Colunas criadas a partir dos dados:
 
 - Custo Combustível
 - Custo Manutenção
-- Custos Fixos
+- Custo Fixos
 - Custo
 
   <h2>Dashboard Financeiro 3</h2>
