@@ -36,8 +36,6 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 - Imagem
 - Faturamento
 
- Nenhuma nova coluna foi criada a partir dos dados.
-
 <h2>Dashboard Financeiro 2</h2>
 
 ![Design sem nome](https://github.com/user-attachments/assets/6284e08b-35ac-4be3-a1fa-c3e447546868)
@@ -63,13 +61,6 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 - Motorista
 - Cidade
 - Estado
-
-Colunas criadas a partir dos dados:
-
-- Custo Combustível 
-- Custo Manutenção
-- Custo Fixos
-- Custo
 
   <h2>Dashboard Financeiro 3</h2>
 
@@ -98,14 +89,6 @@ Colunas criadas a partir dos dados:
 - Cidade
 - Gasto Salarial
 - Idade
-
-Colunas criadas a partir dos dados:
-
-- Multiplicação
-- Gasto Salarial
-- Idade
-- Total em anos
-- Arredondar para Baixo
 
   <h2>Dashboard Financeiro 4</h2>
 
