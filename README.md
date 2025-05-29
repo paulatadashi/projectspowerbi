@@ -2,157 +2,162 @@
 
 Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia:
 
-- <a href="https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%201"/>Dashboard Financeiro 1</a>
+- [Dashboard Financeiro 1](https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%201)
+- [Dashboard Financeiro 2](https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%202)
+- [Dashboard Financeiro 3](https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%203)
+- [Dashboard Financeiro 4](https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%204)
+- [Dashboard Financeiro 5](https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%205)
+- [Dashboard Financeiro 6](https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%206)
 
-- <a href="https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%202"/>Dashboard Financeiro 2</a>
+---
 
-- <a href="https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%203"/>Dashboard Financeiro 3</a>
-
-- <a href="https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%204"/>Dashboard Financeiro 4</a>
-
-- <a href="https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%205"/>Dashboard Financeiro 5</a>
-
-- <a href="https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%206"/>Dashboard Financeiro 6</a>
-
-<h2>Dashboard Financeiro 1</h2>
+## 📊 Dashboard Financeiro 1
 
 ![Design sem nome](https://github.com/user-attachments/assets/2ef5293b-9134-4925-b187-b73293a649b2)
 
-Acesse o Dashboard completo <a href="https://app.powerbi.com/view?r=eyJrIjoiMWM2ZjgyZDMtNDNkZS00ZmM5LThiYjQtOTE3ODkxYzRiNDU2IiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9"/> neste link</a>
+🔗 [Acesse o Dashboard completo neste link](https://app.powerbi.com/view?r=eyJrIjoiMWM2ZjgyZDMtNDNkZS00ZmM5LThiYjQtOTE3ODkxYzRiNDU2IiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9)
 
-Estrutura da base de dados
+**Estrutura da base de dados**
 
-Arquivo em excel que contém inicialmente as seguintes colunas:
+Arquivo em Excel que contém inicialmente as seguintes colunas:
 
-- Sku
-- Produto
-- Quantidade Vendida
-- Data da Venda
-- Nome Completo
-- Data de Nascimento
-- Loja
-- Preço Unitário
-- Custo Unitário
-- Imagem
+- Sku  
+- Produto  
+- Quantidade Vendida  
+- Data da Venda  
+- Nome Completo  
+- Data de Nascimento  
+- Loja  
+- Preço Unitário  
+- Custo Unitário  
+- Imagem  
 - Faturamento
 
-<h2>Dashboard Financeiro 2</h2>
+---
+
+## 📊 Dashboard Financeiro 2
 
 ![Design sem nome](https://github.com/user-attachments/assets/6284e08b-35ac-4be3-a1fa-c3e447546868)
 
- Acesse o Dashboard completo  <a href="https://app.powerbi.com/view?r=eyJrIjoiZWZiOTJkNWEtYWQ1ZS00NTZhLWE3YjMtYzUxMDgwZWQ3YTY3IiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9" frameborder="0" allowFullScreen="true"/> neste link</a>
+🔗 [Acesse o Dashboard completo neste link](https://app.powerbi.com/view?r=eyJrIjoiZWZiOTJkNWEtYWQ1ZS00NTZhLWE3YjMtYzUxMDgwZWQ3YTY3IiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9)
 
-Estrutura da base de dados
+**Estrutura da base de dados**
 
-Arquivo em excel que contém inicialmente as seguintes colunas:
+Arquivo em Excel que contém inicialmente as seguintes colunas:
 
-- Viagem
-- Data Pedido 
-- Data Entrega
-- Valor do Frete Líquido 
-- Custo Frete
-- Tempo Entrega
-- Status Entrega
-- Km
-- Prazo Entrega
-- Marca
-- Veículo 
-- Endereço 
-- Motorista
-- Cidade
+- Viagem  
+- Data Pedido  
+- Data Entrega  
+- Valor do Frete Líquido  
+- Custo Frete  
+- Tempo Entrega  
+- Status Entrega  
+- Km  
+- Prazo Entrega  
+- Marca  
+- Veículo  
+- Endereço  
+- Motorista  
+- Cidade  
 - Estado
 
-  <h2>Dashboard Financeiro 3</h2>
+---
 
-  ![dashboard rh](https://github.com/user-attachments/assets/db3549b2-0e4e-4adf-b0d7-a5bfda1b40bc)
+## 📊 Dashboard Financeiro 3
 
-  Acesse o Dashboard completo <a href="https://app.powerbi.com/view?r=eyJrIjoiMzhkYjc2NjgtODcyYS00YTlkLThlODktNjM3YTU4NDJlOWRiIiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9"/> neste link</a>
+![Dashboard RH](https://github.com/user-attachments/assets/db3549b2-0e4e-4adf-b0d7-a5bfda1b40bc)
 
-  Estrutura da base de dados
-  
-  Arquivo em excel que contém inicialmente as seguintes colunas:
+🔗 [Acesse o Dashboard completo neste link](https://app.powerbi.com/view?r=eyJrIjoiMzhkYjc2NjgtODcyYS00YTlkLThlODktNjM3YTU4NDJlOWRiIiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9)
 
-- ID RH
-- Nome Funcionario
-- Genêro
-- Data de Nascimento
-- Data de Contratação
-- Data de Demissão
-- Salário com Imposto
-- VR
-- VT
-- Cargo
-- Área
-- Horas Extras
-- Avaliação do Funcionário
-- Status Funcionário
-- Cidade
-- Gasto Salarial
+**Estrutura da base de dados**
+
+Arquivo em Excel que contém inicialmente as seguintes colunas:
+
+- Id RH  
+- Nome Funcionário  
+- Genêro  
+- Data de Nascimento  
+- Data de Contratação  
+- Data de Demissão  
+- Salário com Imposto  
+- Vr  
+- Vt  
+- Cargo  
+- Área  
+- Horas Extras  
+- Avaliação do Funcionário  
+- Status do Funcionário  
+- Cidade  
+- Gasto Salarial  
 - Idade
 
-  <h2>Dashboard Financeiro 4</h2>
+---
 
-![dashboard rh](https://github.com/user-attachments/assets/1a6b06c4-5d78-47d4-9e51-c5ecd2ab62bf)
+## 📊 Dashboard Financeiro 4
 
-Acesse o Dashboard completo <a href="https://app.powerbi.com/view?r=eyJrIjoiOWY0NTFmNzgtMWY1ZS00NTY1LWFmM2MtZGYwM2ZhYzYyMTVmIiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9"/> neste link</a>
+![Dashboard RH](https://github.com/user-attachments/assets/1a6b06c4-5d78-47d4-9e51-c5ecd2ab62bf)
 
- Estrutura da base de dados
-  
- Arquivo em excel que contém inicialmente as seguintes colunas:
+🔗 [Acesse o Dashboard completo neste link](https://app.powerbi.com/view?r=eyJrIjoiOWY0NTFmNzgtMWY1ZS00NTY1LWFmM2MtZGYwM2ZhYzYyMTVmIiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9)
 
-- ID_Pedido
-- Data_Pedido
-- ID_Representante
-- Nome_Representante
-- Regional
-- ID_Produto
-- Nome_Produto
-- Valor_Produto
-- Quantidade_Venda
-- Valor_Total_Venda
-- Nome_Cliente
-- Cidade_Cliente
+**Estrutura da base de dados**
+
+Arquivo em Excel que contém inicialmente as seguintes colunas:
+
+- ID_Pedido  
+- Data_Pedido  
+- ID_Representante  
+- Nome_Representante  
+- Regional  
+- ID_Produto  
+- Nome_Produto  
+- Valor_Produto  
+- Quantidade_Venda  
+- Valor_Total_Venda  
+- Nome_Cliente  
+- Cidade_Cliente  
 - Estado_Cliente
 
-<h2>Dashboard Financeiro 5</h2>
+---
+
+## 📊 Dashboard Financeiro 5
 
 ![Nossos colaboradores](https://github.com/user-attachments/assets/ef5c957c-71d3-49c7-8373-17171c5a8748)
 
-Acesse o Dashboard completo <a href="https://app.powerbi.com/view?r=eyJrIjoiODE0YjBkMTAtYzU0NC00NzkzLWE2MDItM2IyMTA4OTZiYThkIiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9"/> neste link</a>
+🔗 [Acesse o Dashboard completo neste link](https://app.powerbi.com/view?r=eyJrIjoiODE0YjBkMTAtYzU0NC00NzkzLWE2MDItM2IyMTA4OTZiYThkIiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9)
 
- Estrutura da base de dados
-  
- Arquivo em excel que contém inicialmente as seguintes colunas:
+**Estrutura da base de dados**
 
-- Cargo
-- Cidade
-- CodCargo
-- Data de Nascimento
-- Data de Contratação
-- Escolaridade
-- Estado
-- Estado Civil 
-- Faixa Etária
-- Genêro
-- Idade
-- Nome Completo
-- Setor
+Arquivo em Excel que contém inicialmente as seguintes colunas:
+
+- Cargo  
+- Cidade  
+- CodCargo  
+- Data de Nascimento  
+- Data de Contratação  
+- Escolaridade  
+- Estado  
+- Estado Civil  
+- Faixa Etária  
+- Genêro  
+- Idade  
+- Nome Completo  
+- Setor  
 - Status
 
-<h2>Dashboard Financeiro 6</h2>
+---
 
-![20250204183955](https://github.com/user-attachments/assets/e69cf9b4-cc3b-4005-8761-fe79b8a142c0)
+## 📊 Dashboard Financeiro 6
 
+![Dashboard 6](https://github.com/user-attachments/assets/e69cf9b4-cc3b-4005-8761-fe79b8a142c0)
 
-Acesse o Dashboard completo <a href="https://app.powerbi.com/view?r=eyJrIjoiYTcxYTU5YWEtY2EyYi00NzllLWFjNTItZjZjZjdkODBmYmI1IiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9"/> neste link</a>
+🔗 [Acesse o Dashboard completo neste link](https://app.powerbi.com/view?r=eyJrIjoiYTcxYTU5YWEtY2EyYi00NzllLWFjNTItZjZjZjdkODBmYmI1IiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9)
 
-Estrutura da base de dados
-  
- Arquivo em excel que contém inicialmente as seguintes colunas:
+**Estrutura da base de dados**
 
-- Calendário
-- Funcionários
-- Medidas
-- Produtos
+Arquivo em Excel que contém inicialmente as seguintes colunas:
+
+- Calendário  
+- Funcionários  
+- Medidas  
+- Produtos  
 - Vendas
-
