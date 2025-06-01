@@ -13,7 +13,10 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
 ## 📊 Dashboard Financeiro 1
 
-![Design sem nome](https://github.com/user-attachments/assets/2ef5293b-9134-4925-b187-b73293a649b2)
+![gif](https://github.com/user-attachments/assets/9047770a-756e-4934-a336-a8aee5d51024)
+
+
+
 
 🔗 [Acesse o Dashboard completo neste link](https://app.powerbi.com/view?r=eyJrIjoiMWM2ZjgyZDMtNDNkZS00ZmM5LThiYjQtOTE3ODkxYzRiNDU2IiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9)
 
