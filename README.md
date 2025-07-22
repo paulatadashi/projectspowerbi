@@ -20,21 +20,6 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
 🔗 [Acesse o Dashboard completo neste link](https://app.powerbi.com/view?r=eyJrIjoiMWM2ZjgyZDMtNDNkZS00ZmM5LThiYjQtOTE3ODkxYzRiNDU2IiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9)
 
-**Estrutura da base de dados**
-
-Arquivo em Excel que contém inicialmente as seguintes colunas:
-
-- Sku  
-- Produto  
-- Quantidade Vendida  
-- Data da Venda  
-- Nome Completo  
-- Data de Nascimento  
-- Loja  
-- Preço Unitário  
-- Custo Unitário  
-- Imagem  
-- Faturamento
 
 ---
 
@@ -44,25 +29,6 @@ Arquivo em Excel que contém inicialmente as seguintes colunas:
 
 🔗 [Acesse o Dashboard completo neste link](https://app.powerbi.com/view?r=eyJrIjoiZWZiOTJkNWEtYWQ1ZS00NTZhLWE3YjMtYzUxMDgwZWQ3YTY3IiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9)
 
-**Estrutura da base de dados**
-
-Arquivo em Excel que contém inicialmente as seguintes colunas:
-
-- Viagem  
-- Data Pedido  
-- Data Entrega  
-- Valor do Frete Líquido  
-- Custo Frete  
-- Tempo Entrega  
-- Status Entrega  
-- Km  
-- Prazo Entrega  
-- Marca  
-- Veículo  
-- Endereço  
-- Motorista  
-- Cidade  
-- Estado
 
 ---
 
@@ -72,27 +38,6 @@ Arquivo em Excel que contém inicialmente as seguintes colunas:
 
 🔗 [Acesse o Dashboard completo neste link](https://app.powerbi.com/view?r=eyJrIjoiMzhkYjc2NjgtODcyYS00YTlkLThlODktNjM3YTU4NDJlOWRiIiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9)
 
-**Estrutura da base de dados**
-
-Arquivo em Excel que contém inicialmente as seguintes colunas:
-
-- Id RH  
-- Nome Funcionário  
-- Genêro  
-- Data de Nascimento  
-- Data de Contratação  
-- Data de Demissão  
-- Salário com Imposto  
-- Vr  
-- Vt  
-- Cargo  
-- Área  
-- Horas Extras  
-- Avaliação do Funcionário  
-- Status do Funcionário  
-- Cidade  
-- Gasto Salarial  
-- Idade
 
 ---
 
@@ -102,23 +47,6 @@ Arquivo em Excel que contém inicialmente as seguintes colunas:
 
 🔗 [Acesse o Dashboard completo neste link](https://app.powerbi.com/view?r=eyJrIjoiOWY0NTFmNzgtMWY1ZS00NTY1LWFmM2MtZGYwM2ZhYzYyMTVmIiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9)
 
-**Estrutura da base de dados**
-
-Arquivo em Excel que contém inicialmente as seguintes colunas:
-
-- ID_Pedido  
-- Data_Pedido  
-- ID_Representante  
-- Nome_Representante  
-- Regional  
-- ID_Produto  
-- Nome_Produto  
-- Valor_Produto  
-- Quantidade_Venda  
-- Valor_Total_Venda  
-- Nome_Cliente  
-- Cidade_Cliente  
-- Estado_Cliente
 
 ---
 
@@ -128,24 +56,6 @@ Arquivo em Excel que contém inicialmente as seguintes colunas:
 
 🔗 [Acesse o Dashboard completo neste link](https://app.powerbi.com/view?r=eyJrIjoiODE0YjBkMTAtYzU0NC00NzkzLWE2MDItM2IyMTA4OTZiYThkIiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9)
 
-**Estrutura da base de dados**
-
-Arquivo em Excel que contém inicialmente as seguintes colunas:
-
-- Cargo  
-- Cidade  
-- CodCargo  
-- Data de Nascimento  
-- Data de Contratação  
-- Escolaridade  
-- Estado  
-- Estado Civil  
-- Faixa Etária  
-- Genêro  
-- Idade  
-- Nome Completo  
-- Setor  
-- Status
 
 ---
 
@@ -155,12 +65,5 @@ Arquivo em Excel que contém inicialmente as seguintes colunas:
 
 🔗 [Acesse o Dashboard completo neste link](https://app.powerbi.com/view?r=eyJrIjoiYTcxYTU5YWEtY2EyYi00NzllLWFjNTItZjZjZjdkODBmYmI1IiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9)
 
-**Estrutura da base de dados**
 
-Arquivo em Excel que contém inicialmente as seguintes colunas:
-
-- Calendário  
-- Funcionários  
-- Medidas  
-- Produtos  
-- Vendas
+---
