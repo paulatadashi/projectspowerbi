@@ -68,3 +68,10 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
 
 ---
+
+## 📊 Dashboard Financeiro 7 
+
+![Fluxo de Caixa](https://github.com/user-attachments/assets/d267883f-e040-483b-863a-e525076fe189)
+
+
+🔗 [Acesse o Dashboard completo neste link](https://app.powerbi.com/view?r=eyJrIjoiNzE2YmFhMDctYTVkNC00MWIxLTgwYmItOGNhNWMwODFhYTMyIiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9)
