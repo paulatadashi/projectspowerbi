@@ -75,3 +75,11 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
 
 🔗 [Acesse o Dashboard completo neste link](https://app.powerbi.com/view?r=eyJrIjoiNzE2YmFhMDctYTVkNC00MWIxLTgwYmItOGNhNWMwODFhYTMyIiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9)
+
+## 📊 Dashboard Financeiro 8 
+
+![Comércio Exterior ](https://github.com/user-attachments/assets/c5df64eb-faa8-4c4a-983d-52c3fde39f14)
+
+🔗 [Acesse o Dashboard completo neste link](https://app.powerbi.com/view?r=eyJrIjoiNDgwNGE0MTItODhjYi00MDUwLWIxMTQtNTcyMDhkMmE0ODNiIiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9) 
+
+---
