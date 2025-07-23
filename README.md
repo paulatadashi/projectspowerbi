@@ -10,6 +10,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 - [Dashboard Financeiro 6](https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%206)
 - [Dashboard Financeiro 7](https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%207)
 - [Dashboard Financeiro 8](https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%208)
+- [Dashboard Financeiro 9](https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%209)
 
 ---
 
