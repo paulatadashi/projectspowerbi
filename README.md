@@ -9,6 +9,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 - [Dashboard Financeiro 5](https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%205)
 - [Dashboard Financeiro 6](https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%206)
 - [Dashboard Financeiro 7](https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%207)
+- [Dashboard Financeiro 8](https://github.com/paulatadashi/projectspowerbi/tree/main/Dashboard%20Financeiro%208)
 
 ---
 
@@ -81,5 +82,13 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 ![Comércio Exterior ](https://github.com/user-attachments/assets/c5df64eb-faa8-4c4a-983d-52c3fde39f14)
 
 🔗 [Acesse o Dashboard completo neste link](https://app.powerbi.com/view?r=eyJrIjoiNDgwNGE0MTItODhjYi00MDUwLWIxMTQtNTcyMDhkMmE0ODNiIiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9) 
+
+---
+
+## 📊 Dashboard Financeiro 9
+
+![Agrofruits](https://github.com/user-attachments/assets/260b285c-f6f7-4b7a-8c8c-e7d53809d5cf)
+
+🔗 [Acesse o Dashboard completo neste link](https://app.powerbi.com/view?r=eyJrIjoiZDJlMzJmZTktMDI0MC00NWUxLWEyODctZjBjYTU3Zjc3ZmRkIiwidCI6ImQ3OWUyMDUwLWUzODItNDg4NS1hZTIwLWI2Nzk1YjhkYmI4OCJ9)
 
 ---
